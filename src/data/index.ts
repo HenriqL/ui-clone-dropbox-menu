@@ -12,11 +12,11 @@ export default [
     {
       title: 'Armazenamento e compartilhamento de arquivos são só o começo',
       description:
-        'Reúna em um só lugar arquivos tradicionais, conteúdo em nuvem, documentos do Dropbox Paper e atalhos da Web — e trabalhe da forma que funciona para você.',
+        'Reúna em um só lugar arquivos tradicionais, conteúdo em nuvem, documentos do Dropbox Paper e atalhos da Web — e trabalhe da forma que funciona para você.As sugestões personalizadas exibem arquivos e pastas quando você precisa, para você perder menos tempo com buscas.',
     },
     {
       title: 'Para todos',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      description: 'Encontre o plano do Dropbox perfeito para você.',
     },
     {
       title: 'Parte inferior da página',
